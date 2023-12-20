@@ -1,1 +1,1 @@
-# Water-Potability-Prediction
+# Water-Quality-Prediction-using-Machine-Learning
